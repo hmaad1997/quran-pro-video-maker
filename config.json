@@ -1,0 +1,21 @@
+{
+    "template_video": "input/templates/your_template_video.mp4",
+    "output_resolution": "3840x2160",
+    "output_codec": "libx264",
+    "output_format": "mp4",
+    "chroma_settings": {
+        "position_x": "(W-w)/2",
+        "position_y": "(H-h)/2",
+        "scale": "1.0"
+    },
+    "surah_name_settings": {
+        "position_x": "W-w-50",
+        "position_y": "50",
+        "scale": "0.5"
+    },
+    "qari_name_settings": {
+        "position_x": "50",
+        "position_y": "H-h-50",
+        "scale": "0.5"
+    }
+}
